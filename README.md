@@ -16,8 +16,8 @@ Prédire avec précision la position d’un utilisateur à l’intérieur d’un
 | `data_square_motion_samsung.csv`         | Données brutes de capteurs et RSSI correspondant à un trajet en carré. |
 | `ETAI_IndoorProject.pdf`                 | Présentation technique détaillant le projet, ses étapes et objectifs. |
 | `Quand l’intelligence artificielle...pdf`| Article de vulgarisation scientifique expliquant le contexte du projet. |
-| `Poster.pdf`                             | Poster scientifique sur un projet connexe (beam prediction). |
-| `indoor-loc_.png`                        | Illustration du trajet intérieur (mouvement carré). |
+| `Poster.pdf`                             | Poster scientifique sur le projet (beam prediction). |
+| `indoor-loc_.png`                        | Illustration du trajet intérieur. |
 | `vulgarisation.png`                      | Schéma simplifié pour la vulgarisation du projet. |
 
 ## 🧪 Étapes du projet
